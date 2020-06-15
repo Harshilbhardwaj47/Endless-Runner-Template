@@ -1,0 +1,1427 @@
+﻿Log file open, 06/09/20 16:28:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Battelfiledrunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.117755
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=edwardkenway47 -epicuserid=0de5764f4c364ff38c5c8f4c49fce916 -epiclocale=en
+LogInit: Base Directory: G:/applications/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Engine.ini]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Engine.ini]
+[2020.06.09-23.28.57:936][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Engine.ini]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Engine.ini]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.06.09-23.28.57:936][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.09-23.28.57:937][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.09-23.28.57:937][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.09-23.28.57:937][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.09-23.28.57:937][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.09-23.28.57:937][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.09-23.28.57:937][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Engine.ini]
+[2020.06.09-23.28.57:937][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Engine.ini]
+[2020.06.09-23.28.57:941][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:941][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.09-23.28.57:941][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.09-23.28.57:941][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:941][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.09-23.28.57:941][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:941][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.09-23.28.57:941][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.09-23.28.57:942][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.09-23.28.57:943][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.09-23.28.57:943][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.09-23.28.57:943][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.09-23.28.57:946][  0]LogHAL: Display: Platform has ~ 8 GB [8502812672 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.09-23.28.57:946][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.09-23.28.57:947][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.09-23.28.57:947][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Scalability.ini]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.09-23.28.57:948][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/UE4/Battelfiledrunner/Saved/Config/Windows/Engine.ini]
+[2020.06.09-23.28.57:948][  0]LogInit: Computer: DESKTOP-2AEV0ED
+[2020.06.09-23.28.57:948][  0]LogInit: User: hp
+[2020.06.09-23.28.57:948][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.09-23.28.57:948][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.09-23.28.57:949][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.06.09-23.28.57:949][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.09-23.28.57:949][  0]LogMemory: Process Physical Memory: 99.96 MB used, 99.97 MB peak
+[2020.06.09-23.28.57:949][  0]LogMemory: Process Virtual Memory: 99.10 MB used, 99.10 MB peak
+[2020.06.09-23.28.57:949][  0]LogMemory: Physical Memory: 5100.61 MB used,  3008.31 MB free, 8108.91 MB total
+[2020.06.09-23.28.57:949][  0]LogMemory: Virtual Memory: 4666.89 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.06.09-23.28.57:952][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.09-23.28.57:972][  0]LogInit: Using OS detected language (en-US).
+[2020.06.09-23.28.57:972][  0]LogInit: Using OS detected locale (en-IN).
+[2020.06.09-23.28.57:973][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.09-23.28.58:182][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.09-23.28.58:219][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.09-23.28.58:219][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.09-23.28.58:434][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.09-23.28.58:434][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.09-23.28.58:585][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.06.09-23.28.58:585][  0]LogD3D11RHI:       128/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.06.09-23.28.58:589][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.09-23.28.58:589][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.09-23.28.58:589][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.09-23.28.58:597][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.09-23.28.58:597][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.09-23.28.58:597][  0]LogWindows: EnumDisplayDevices:
+[2020.06.09-23.28.58:597][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.06.09-23.28.58:597][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.06.09-23.28.58:598][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.06.09-23.28.58:598][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.06.09-23.28.58:598][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2020.06.09-23.28.58:598][  0]LogD3D11RHI:   Driver Version: 26.20.100.7262 (internal:26.20.100.7262, unified:26.20.100.7262)
+[2020.06.09-23.28.58:598][  0]LogD3D11RHI:      Driver Date: 9-25-2019
+[2020.06.09-23.28.58:598][  0]LogRHI: Texture pool is 1508 MB (70% of 2155 MB)
+[2020.06.09-23.28.58:833][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.06.09-23.28.58:833][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.09-23.28.58:841][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.06.09-23.28.59:227][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.06.09-23.28.59:235][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.06.09-23.28.59:244][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.06.09-23.28.59:252][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.06.09-23.28.59:263][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.06.09-23.28.59:273][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.06.09-23.28.59:282][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.09-23.28.59:290][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.06.09-23.28.59:295][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.06.09-23.28.59:337][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.09-23.28.59:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.09-23.28.59:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.09-23.28.59:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.09-23.28.59:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.06.09-23.28.59:338][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.06.09-23.28.59:340][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.06.09-23.28.59:359][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.06.09-23.28.59:359][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.06.09-23.28.59:374][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.06.09-23.28.59:374][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.06.09-23.28.59:380][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.06.09-23.28.59:388][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.09-23.28.59:397][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.06.09-23.28.59:407][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.06.09-23.28.59:434][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.06.09-23.28.59:434][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.06.09-23.28.59:434][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.09-23.28.59:444][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.09-23.28.59:495][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../../UE4/Battelfiledrunner/Intermediate/Shaders/WorkingDirectory/13820/).
+[2020.06.09-23.28.59:495][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hp/AppData/Local/Temp/UnrealShaderWorkingDir/1A591AE74BC423C472499EB5E568D607/'.
+[2020.06.09-23.28.59:497][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.09-23.28.59:497][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.09-23.28.59:497][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.09-23.29.00:295][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.09-23.29.00:363][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/hp/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.06.09-23.29.00:363][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/hp/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.06.09-23.29.00:363][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UE4/Battelfiledrunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.09-23.29.00:363][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.09-23.29.00:363][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UE4/Battelfiledrunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.09-23.29.00:363][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.09-23.29.00:377][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.09-23.29.00:377][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.09-23.29.00:377][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.09-23.29.00:379][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.09-23.29.00:379][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.09-23.29.00:379][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.09-23.29.00:411][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.09-23.29.00:414][  0]LogSlate: Using FreeType 2.6.0
+[2020.06.09-23.29.00:414][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.09-23.29.00:486][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2020.06.09-23.29.00:854][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.09-23.29.01:040][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.09-23.29.01:040][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.09-23.29.01:040][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.09-23.29.01:040][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.09-23.29.01:040][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.09-23.29.01:052][  0]LogNetVersion: Battelfiledrunner 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2408068777)
+[2020.06.09-23.29.01:591][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.059777 seconds
+[2020.06.09-23.29.01:597][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.06.09-23.29.01:597][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.06.09-23.29.01:597][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.09-23.29.02:647][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.09-23.29.02:706][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.09-23.29.02:770][  0]SourceControl: Source control is disabled
+[2020.06.09-23.29.02:770][  0]SourceControl: Source control is disabled
+[2020.06.09-23.29.02:772][  0]SourceControl: Source control is disabled
+[2020.06.09-23.29.02:773][  0]SourceControl: Source control is disabled
+[2020.06.09-23.29.02:782][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.09-23.29.02:783][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.09-23.29.02:911][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.09-23.29.03:061][  0]LogOcInput: OculusInput pre-init called
+[2020.06.09-23.29.03:069][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.06.09-23.29.03:069][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.06.09-23.29.03:162][  0]LogEngine: Initializing Engine...
+[2020.06.09-23.29.03:165][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.09-23.29.03:166][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.09-23.29.03:483][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.09-23.29.03:498][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.09-23.29.03:830][  0]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.09-23.29.03:856][  0]LogInit: FAudioDevice initialized.
+[2020.06.09-23.29.03:856][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.09-23.29.04:202][  0]LogDerivedDataCache: Saved boot cache 0.35s 73MB C:/Users/hp/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.06.09-23.29.04:218][  0]LogInit: Texture streaming: Enabled
+[2020.06.09-23.29.04:245][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.09-23.29.04:245][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.09-23.29.04:246][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.09-23.29.04:272][  0]LogInit: Transaction tracking system initialized
+[2020.06.09-23.29.04:298][  0]BlueprintLog: New page: Editor Load
+[2020.06.09-23.29.04:499][  0]LocalizationService: Localization service is disabled
+[2020.06.09-23.29.04:614][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.09-23.29.04:614][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.06.09-23.29.04:799][  0]LogFileCache: Scanning file cache for directory 'G:/UE4/Battelfiledrunner/Content/' took 0.00s
+[2020.06.09-23.29.04:799][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.09-23.29.04:799][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.09-23.29.04:970][  0]SourceControl: Source control is disabled
+[2020.06.09-23.29.05:085][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 G:/applications/UE_4.23/FeaturePacks/MobileStarterContent.upack)
+[2020.06.09-23.29.05:241][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.06.09-23.29.05:310][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Floor_400x400.uasset"
+[2020.06.09-23.29.05:348][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset"
+[2020.06.09-23.29.05:384][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x200.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Wall_400x200.uasset"
+[2020.06.09-23.29.05:431][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x300.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Wall_400x300.uasset"
+[2020.06.09-23.29.05:451][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x400.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Wall_400x400.uasset"
+[2020.06.09-23.29.05:468][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_500x500.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Wall_500x500.uasset"
+[2020.06.09-23.29.05:484][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.06.09-23.29.05:499][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.06.09-23.29.05:519][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.06.09-23.29.05:543][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.06.09-23.29.05:644][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse01.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Collapse01.uasset"
+[2020.06.09-23.29.05:665][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse02.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Collapse02.uasset"
+[2020.06.09-23.29.05:689][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse_Cue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Collapse_Cue.uasset"
+[2020.06.09-23.29.05:743][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion01.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Explosion01.uasset"
+[2020.06.09-23.29.05:779][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion02.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Explosion02.uasset"
+[2020.06.09-23.29.05:832][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion_Cue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Explosion_Cue.uasset"
+[2020.06.09-23.29.05:876][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Fire01.uasset"
+[2020.06.09-23.29.05:886][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01_Cue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Fire01_Cue.uasset"
+[2020.06.09-23.29.05:936][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset"
+[2020.06.09-23.29.05:946][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.06.09-23.29.05:964][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Light01.uasset"
+[2020.06.09-23.29.05:973][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01_Cue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Light01_Cue.uasset"
+[2020.06.09-23.29.05:993][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Light02.uasset"
+[2020.06.09-23.29.06:018][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02_Cue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Light02_Cue.uasset"
+[2020.06.09-23.29.06:159][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Smoke01.uasset"
+[2020.06.09-23.29.06:235][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset"
+[2020.06.09-23.29.06:262][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.06.09-23.29.06:338][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Birds01.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Starter_Birds01.uasset"
+[2020.06.09-23.29.06:542][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music01.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Starter_Music01.uasset"
+[2020.06.09-23.29.06:658][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.06.09-23.29.06:742][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind05.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Starter_Wind05.uasset"
+[2020.06.09-23.29.06:809][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind06.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Starter_Wind06.uasset"
+[2020.06.09-23.29.06:869][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Steam01.uasset"
+[2020.06.09-23.29.06:879][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01_Cue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Audio/Steam01_Cue.uasset"
+[2020.06.09-23.29.06:899][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.06.09-23.29.06:918][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.06.09-23.29.06:938][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.06.09-23.29.06:970][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.06.09-23.29.06:990][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.06.09-23.29.07:014][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.06.09-23.29.07:052][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default.umap" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Maps/Minimal_Default.umap"
+[2020.06.09-23.29.07:090][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.06.09-23.29.07:124][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap.umap" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Maps/StarterMap.umap"
+[2020.06.09-23.29.07:364][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.06.09-23.29.07:400][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset"
+[2020.06.09-23.29.07:546][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset"
+[2020.06.09-23.29.07:773][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.06.09-23.29.07:850][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.06.09-23.29.07:916][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.06.09-23.29.07:953][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.06.09-23.29.07:987][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.06.09-23.29.08:060][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.06.09-23.29.08:108][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.06.09-23.29.08:125][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.06.09-23.29.08:171][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.06.09-23.29.08:188][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.06.09-23.29.08:207][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.06.09-23.29.08:317][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.06.09-23.29.08:335][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.06.09-23.29.08:367][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Glass.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Glass.uasset"
+[2020.06.09-23.29.08:385][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset"
+[2020.06.09-23.29.08:424][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.06.09-23.29.08:477][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset"
+[2020.06.09-23.29.08:564][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.06.09-23.29.08:602][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.06.09-23.29.08:641][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.06.09-23.29.08:657][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset"
+[2020.06.09-23.29.08:684][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset"
+[2020.06.09-23.29.08:707][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset"
+[2020.06.09-23.29.08:735][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset"
+[2020.06.09-23.29.08:753][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.06.09-23.29.08:828][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.06.09-23.29.08:854][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.06.09-23.29.08:985][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset"
+[2020.06.09-23.29.09:034][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.06.09-23.29.09:064][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.06.09-23.29.09:081][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.06.09-23.29.09:122][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset"
+[2020.06.09-23.29.09:151][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Lake.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Water_Lake.uasset"
+[2020.06.09-23.29.09:170][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset"
+[2020.06.09-23.29.09:212][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.06.09-23.29.09:230][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.06.09-23.29.09:247][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset"
+[2020.06.09-23.29.09:270][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset"
+[2020.06.09-23.29.09:295][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.06.09-23.29.09:313][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.06.09-23.29.09:368][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Explosion.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/P_Explosion.uasset"
+[2020.06.09-23.29.09:386][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Fire.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/P_Fire.uasset"
+[2020.06.09-23.29.09:411][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Smoke.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/P_Smoke.uasset"
+[2020.06.09-23.29.09:485][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Sparks.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/P_Sparks.uasset"
+[2020.06.09-23.29.09:531][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset"
+[2020.06.09-23.29.09:555][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.06.09-23.29.09:708][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.06.09-23.29.09:756][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.06.09-23.29.09:805][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.06.09-23.29.09:827][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.06.09-23.29.09:849][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.06.09-23.29.09:865][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.06.09-23.29.09:899][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset"
+[2020.06.09-23.29.10:053][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/MaterialSphere.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/MaterialSphere.uasset"
+[2020.06.09-23.29.10:149][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Bush.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_Bush.uasset"
+[2020.06.09-23.29.10:272][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Chair.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_Chair.uasset"
+[2020.06.09-23.29.10:402][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_CornerFrame.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_CornerFrame.uasset"
+[2020.06.09-23.29.10:464][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Couch.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_Couch.uasset"
+[2020.06.09-23.29.10:488][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Door.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_Door.uasset"
+[2020.06.09-23.29.10:529][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_DoorFrame.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_DoorFrame.uasset"
+[2020.06.09-23.29.10:570][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_GlassWindow.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_GlassWindow.uasset"
+[2020.06.09-23.29.10:607][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.06.09-23.29.10:633][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.06.09-23.29.10:690][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.06.09-23.29.10:753][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_PillarFrame.uasset"
+[2020.06.09-23.29.10:770][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset"
+[2020.06.09-23.29.10:789][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Rock.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_Rock.uasset"
+[2020.06.09-23.29.10:805][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Shelf.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_Shelf.uasset"
+[2020.06.09-23.29.10:822][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Stairs.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_Stairs.uasset"
+[2020.06.09-23.29.10:856][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Statue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_Statue.uasset"
+[2020.06.09-23.29.10:907][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_TableRound.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_TableRound.uasset"
+[2020.06.09-23.29.10:932][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_WindowFrame.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/SM_WindowFrame.uasset"
+[2020.06.09-23.29.10:950][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Bush.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_Bush.uasset"
+[2020.06.09-23.29.10:971][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Chair.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_Chair.uasset"
+[2020.06.09-23.29.10:988][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Door.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_Door.uasset"
+[2020.06.09-23.29.11:007][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Frame.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_Frame.uasset"
+[2020.06.09-23.29.11:029][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset"
+[2020.06.09-23.29.11:047][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.06.09-23.29.11:065][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.06.09-23.29.11:107][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Rock.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_Rock.uasset"
+[2020.06.09-23.29.11:124][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset"
+[2020.06.09-23.29.11:188][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Statue.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_Statue.uasset"
+[2020.06.09-23.29.11:234][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.06.09-23.29.11:252][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset"
+[2020.06.09-23.29.11:304][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cone.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Cone.uasset"
+[2020.06.09-23.29.11:342][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cube.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Cube.uasset"
+[2020.06.09-23.29.11:360][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.06.09-23.29.11:388][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.06.09-23.29.11:409][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset"
+[2020.06.09-23.29.11:426][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.06.09-23.29.11:445][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.06.09-23.29.11:463][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Plane.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Plane.uasset"
+[2020.06.09-23.29.11:482][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.06.09-23.29.11:628][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset"
+[2020.06.09-23.29.11:690][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Torus.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Torus.uasset"
+[2020.06.09-23.29.11:708][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Trim.uasset"
+[2020.06.09-23.29.11:741][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.06.09-23.29.11:765][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.06.09-23.29.11:808][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.06.09-23.29.11:825][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Tube.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Tube.uasset"
+[2020.06.09-23.29.11:875][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.06.09-23.29.11:894][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.06.09-23.29.11:911][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.06.09-23.29.11:957][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.06.09-23.29.12:012][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.06.09-23.29.12:124][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.06.09-23.29.12:189][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.06.09-23.29.12:254][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.06.09-23.29.12:317][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.06.09-23.29.12:388][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.06.09-23.29.12:476][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.06.09-23.29.12:572][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.06.09-23.29.12:640][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.06.09-23.29.12:709][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.06.09-23.29.12:793][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.06.09-23.29.12:856][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.06.09-23.29.13:133][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Burst_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Burst_M.uasset"
+[2020.06.09-23.29.13:155][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Bush_D.uasset"
+[2020.06.09-23.29.13:171][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Bush_N.uasset"
+[2020.06.09-23.29.13:224][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.06.09-23.29.13:252][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.06.09-23.29.13:270][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Chair_M.uasset"
+[2020.06.09-23.29.13:373][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Chair_N.uasset"
+[2020.06.09-23.29.13:419][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.06.09-23.29.13:468][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.06.09-23.29.13:508][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.06.09-23.29.13:550][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.06.09-23.29.13:591][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.06.09-23.29.13:641][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.06.09-23.29.13:684][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.06.09-23.29.13:724][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.06.09-23.29.13:762][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.06.09-23.29.13:854][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.06.09-23.29.13:930][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.06.09-23.29.13:974][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.06.09-23.29.14:021][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.06.09-23.29.14:094][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.06.09-23.29.14:193][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.06.09-23.29.14:345][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.06.09-23.29.14:509][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.06.09-23.29.14:532][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.06.09-23.29.14:611][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.06.09-23.29.14:665][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Door_M.uasset"
+[2020.06.09-23.29.14:684][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Door_N.uasset"
+[2020.06.09-23.29.14:722][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.06.09-23.29.14:765][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.06.09-23.29.14:797][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.06.09-23.29.14:816][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.06.09-23.29.14:838][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Frame_M.uasset"
+[2020.06.09-23.29.14:879][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Frame_N.uasset"
+[2020.06.09-23.29.14:913][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset"
+[2020.06.09-23.29.14:971][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.06.09-23.29.15:046][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.06.09-23.29.15:139][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.06.09-23.29.15:207][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.06.09-23.29.15:283][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.06.09-23.29.15:380][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.06.09-23.29.15:436][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Lamp_M.uasset"
+[2020.06.09-23.29.15:524][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Lamp_N.uasset"
+[2020.06.09-23.29.15:618][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_MacroVariation.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_MacroVariation.uasset"
+[2020.06.09-23.29.15:867][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.06.09-23.29.15:938][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.06.09-23.29.16:029][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.06.09-23.29.16:065][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.06.09-23.29.16:131][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.06.09-23.29.16:194][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.06.09-23.29.16:238][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.06.09-23.29.16:279][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.06.09-23.29.16:386][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.06.09-23.29.16:449][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset"
+[2020.06.09-23.29.16:512][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset"
+[2020.06.09-23.29.16:576][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.06.09-23.29.16:711][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.06.09-23.29.16:780][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.06.09-23.29.16:841][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.06.09-23.29.16:902][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.06.09-23.29.16:981][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.06.09-23.29.17:327][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.06.09-23.29.17:458][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.06.09-23.29.17:493][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Shelf_M.uasset"
+[2020.06.09-23.29.17:535][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Shelf_N.uasset"
+[2020.06.09-23.29.17:573][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.06.09-23.29.17:622][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.06.09-23.29.17:700][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.06.09-23.29.17:739][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Spark_Core.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Spark_Core.uasset"
+[2020.06.09-23.29.17:755][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Statue_M.uasset"
+[2020.06.09-23.29.17:793][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Statue_N.uasset"
+[2020.06.09-23.29.17:811][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_TableRound_M.uasset"
+[2020.06.09-23.29.17:878][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_TableRound_N.uasset"
+[2020.06.09-23.29.17:918][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.06.09-23.29.17:954][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.06.09-23.29.18:006][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.06.09-23.29.18:039][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.06.09-23.29.18:064][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.06.09-23.29.18:152][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.06.09-23.29.18:188][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Water_M.uasset"
+[2020.06.09-23.29.18:226][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Water_N.uasset"
+[2020.06.09-23.29.18:278][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.06.09-23.29.18:414][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.06.09-23.29.18:561][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.06.09-23.29.18:634][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.06.09-23.29.18:675][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.06.09-23.29.18:742][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.06.09-23.29.18:804][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.06.09-23.29.18:880][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.06.09-23.29.18:941][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.06.09-23.29.19:291][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.06.09-23.29.20:263][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MobileStarterContent/Architecture/Floor_400x400" FILE="../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.06.09-23.29.20:357][  0]LogSavePackage: Moving '../../../../../UE4/Battelfiledrunner/Saved/Floor_400x400B4AD8CC34CF362CE70CFE3AC958E8FF6.tmp' to '../../../../../UE4/Battelfiledrunner/Content/MobileStarterContent/Architecture/Floor_400x400.uasset'
+[2020.06.09-23.29.20:364][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.06.09-23.29.20:375][  0]Cmd: MAP LOAD FILE="../../../../../UE4/Battelfiledrunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.09-23.29.20:375][  0]LightingResults: New page: Lighting Build
+[2020.06.09-23.29.20:378][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.29.20:379][  0]MapCheck: New page: Map Check
+[2020.06.09-23.29.20:379][  0]LightingResults: New page: Lighting Build
+[2020.06.09-23.29.20:418][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.06.09-23.29.21:071][  0]LogTexture: Display: Building textures: T_ML_Aluminum01 (AutoDXT, 512X512)
+[2020.06.09-23.29.21:071][  0]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2020.06.09-23.29.21:071][  0]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2020.06.09-23.29.21:071][  0]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (AutoDXT, 512X512)
+[2020.06.09-23.29.21:071][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2020.06.09-23.29.21:098][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.09-23.29.21:234][  0]LogTexture: Display: Building textures: T_UE4_Mannequin_Mobile_M (AutoDXT, 1024X1024)
+[2020.06.09-23.29.21:234][  0]LogTexture: Display: Building textures: T_UE4_Mannequin_Mobile_N (BC5, 1024X1024)
+[2020.06.09-23.29.21:234][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2020.06.09-23.29.21:234][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.09-23.29.21:260][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2020.06.09-23.29.21:261][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.09-23.29.21:928][  0]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2020.06.09-23.29.22:154][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.06.09-23.29.22:154][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.06.09-23.29.22:154][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.06.09-23.29.22:154][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.06.09-23.29.22:154][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3
+[2020.06.09-23.29.22:154][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2020.06.09-23.29.22:154][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.09-23.29.22:181][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2020.06.09-23.29.22:181][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.09-23.29.22:215][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2020.06.09-23.29.22:215][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.09-23.29.22:320][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.09-23.29.22:632][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2020.06.09-23.29.23:205][  0]LogSkeletalMesh: Built Skeletal Mesh [0.73s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.06.09-23.29.23:214][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.09-23.29.23:302][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.09-23.29.23:312][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.09-23.29.23:352][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.06.09-23.29.23:353][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.09-23.29.23:353][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2020.06.09-23.29.23:353][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.978
+[2020.06.09-23.29.24:011][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.29.24:028][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.29.24:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.29.24:057][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.29.24:072][  0]LogCollectionManager: Loaded 0 collections in 0.001701 seconds
+[2020.06.09-23.29.24:106][  0]LogFileCache: Scanning file cache for directory 'G:/UE4/Battelfiledrunner/Saved/Collections/' took 0.00s
+[2020.06.09-23.29.24:106][  0]LogFileCache: Scanning file cache for directory 'G:/UE4/Battelfiledrunner/Content/Developers/hp/Collections/' took 0.00s
+[2020.06.09-23.29.24:106][  0]LogFileCache: Scanning file cache for directory 'G:/UE4/Battelfiledrunner/Content/Collections/' took 0.00s
+[2020.06.09-23.29.24:106][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2020.06.09-23.29.24:121][  0]LogContentBrowser: Native class hierarchy populated in 0.0142 seconds. Added 2863 classes and 680 folders.
+[2020.06.09-23.29.24:151][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.09-23.29.24:208][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.09-23.29.24:221][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.09-23.29.24:246][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.09-23.29.24:250][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.09-23.29.24:304][  0]LogSlate: Took 0.048879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.09-23.29.24:491][  0]LogRenderer: Reallocating scene render targets to support 964x460 Format 10 NumSamples 1 (Frame:1).
+[2020.06.09-23.29.25:440][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 250
+[2020.06.09-23.29.25:440][  0]LogSlate: Took 0.000317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.09-23.29.25:742][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.06.09-23.29.25:742][  0]LogLoad: (Engine Initialization) Total time: 28.79 seconds
+[2020.06.09-23.29.25:742][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.09-23.29.26:163][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.09-23.29.26:569][ 10]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 240
+[2020.06.09-23.29.29:590][109]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 230
+[2020.06.09-23.29.30:197][129]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 220
+[2020.06.09-23.29.30:342][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 210
+[2020.06.09-23.29.34:897][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 200
+[2020.06.09-23.29.38:359][399]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 190
+[2020.06.09-23.29.40:653][457]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 180
+[2020.06.09-23.29.44:441][559]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 170
+[2020.06.09-23.29.47:988][661]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 160
+[2020.06.09-23.29.48:453][673]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 150
+[2020.06.09-23.29.53:602][820]LogAssetRegistry: Asset discovery search completed in 53.1190 seconds
+[2020.06.09-23.29.53:621][820]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000016 seconds (found 0 objects)
+[2020.06.09-23.29.53:621][820]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000157 seconds (updated 0 objects)
+[2020.06.09-23.29.55:457][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 140
+[2020.06.09-23.29.56:042][904]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 130
+[2020.06.09-23.29.56:682][926]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 120
+[2020.06.09-23.29.57:498][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 110
+[2020.06.09-23.30.05:344][223]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 100
+[2020.06.09-23.30.05:756][238]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 90
+[2020.06.09-23.30.06:631][269]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 80
+[2020.06.09-23.30.08:969][350]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2020.06.09-23.30.13:893][518]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2020.06.09-23.30.16:427][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2020.06.09-23.30.17:563][648]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.06.09-23.30.18:669][687]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.06.09-23.30.23:518][855]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.06.09-23.30.24:293][883]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.06.09-23.30.25:325][919]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.06.09-23.30.26:690][964]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.06.09-23.30.27:913][  7]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.06.09-23.30.29:189][ 51]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.09-23.30.30:216][ 83]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.06.09-23.30.30:752][101]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.06.09-23.31.00:994][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-23.31.04:573][408]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.09-23.31.04:593][408]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.06.09-23.31.05:467][408]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 121 classes and 0 folders.
+[2020.06.09-23.31.09:666][466]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.06.09-23.31.09:680][466]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2020.06.09-23.31.09:737][466]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.31.10:823][493]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.06.09-23.31.11:380][493]LogSlate: Took 0.017616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.09-23.31.11:931][494]LogSlate: Took 0.001115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.09-23.31.18:193][703]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.06.09-23.31.52:452][712]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.06.09-23.31.53:222][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.06.09-23.33.38:425][176]LogRenderer: Reallocating scene render targets to support 964x724 Format 10 NumSamples 1 (Frame:1).
+[2020.06.09-23.34.00:409][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-23.34.00:518][855]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.06.09-23.34.00:741][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.06.09-23.34.03:597][939]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.09-23.34.03:610][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.34.03:709][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.09-23.34.03:710][939]PIE: New page: PIE session: ThirdPersonExampleMap (09-Jun-2020 9:34:03 am)
+[2020.06.09-23.34.03:712][939]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.06.09-23.34.03:715][939]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.34.03:751][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036158s)
+[2020.06.09-23.34.03:754][939]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.09-23.34.03:754][939]LogPlayLevel: PIE: World Init took: (0.002777s)
+[2020.06.09-23.34.03:754][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039526s)
+[2020.06.09-23.34.03:806][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.06.09-23.34.03:812][939]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.09-23.34.03:829][939]LogInit: FAudioDevice initialized.
+[2020.06.09-23.34.03:836][939]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.09-23.34.03:838][939]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.06.09-16.34.03
+[2020.06.09-23.34.03:839][939]LogWorld: Bringing up level for play took: 0.001256
+[2020.06.09-23.34.03:839][939]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.06.09-23.34.03:910][939]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.06.09-23.34.03:911][939]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.052
+[2020.06.09-23.34.03:912][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.34.08:243][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.34.08:243][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.34.08:243][108]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.34.08:243][108]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.34.08:271][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-23.34.08:271][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.34.08:315][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.34.08:334][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.06.09-23.34.08:344][109]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.06.09-23.34.12:268][233]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.09-23.34.12:282][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.34.12:282][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.09-23.34.12:282][233]PIE: New page: PIE session: ThirdPersonExampleMap (09-Jun-2020 9:34:12 am)
+[2020.06.09-23.34.12:282][233]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.34.12:297][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014468s)
+[2020.06.09-23.34.12:297][233]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.09-23.34.12:297][233]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2020.06.09-23.34.12:298][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015534s)
+[2020.06.09-23.34.12:334][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.06.09-23.34.12:339][233]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.09-23.34.12:356][233]LogInit: FAudioDevice initialized.
+[2020.06.09-23.34.12:393][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.34.12:393][233]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.09-23.34.12:396][233]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.06.09-16.34.12
+[2020.06.09-23.34.12:396][233]LogWorld: Bringing up level for play took: 0.001987
+[2020.06.09-23.34.12:397][233]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.06.09-23.34.12:401][233]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.459
+[2020.06.09-23.34.12:402][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.34.12:560][234]LogRenderer: Reallocating scene render targets to support 1280x724 Format 10 NumSamples 1 (Frame:1).
+[2020.06.09-23.34.17:957][378]LogSlate: Window 'Battelfiledrunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.09-23.34.17:996][378]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.34.17:996][378]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.34.17:996][378]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.34.18:019][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-23.34.18:019][378]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.34.18:066][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.06.09-23.34.18:149][379]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.06.09-23.35.17:248][367]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.06.09-23.35.17:475][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.06.09-23.35.18:706][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../UE4/Battelfiledrunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.06.09-23.35.18:922][396]LogSavePackage: Moving '../../../../../UE4/Battelfiledrunner/Saved/ThirdPersonCharacter3D04414A4BFCF913B38055A147E55E24.tmp' to '../../../../../UE4/Battelfiledrunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.06.09-23.35.38:465][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.09-23.35.38:563][961]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.06.09-23.35.38:823][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.06.09-23.35.39:942][997]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.09-23.35.39:956][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.35.39:956][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.09-23.35.39:957][997]PIE: New page: PIE session: ThirdPersonExampleMap (09-Jun-2020 9:35:39 am)
+[2020.06.09-23.35.39:957][997]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.35.39:968][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011394s)
+[2020.06.09-23.35.39:969][997]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.09-23.35.39:969][997]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2020.06.09-23.35.39:969][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012822s)
+[2020.06.09-23.35.40:007][997]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.06.09-23.35.40:013][997]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.09-23.35.40:031][997]LogInit: FAudioDevice initialized.
+[2020.06.09-23.35.40:040][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.35.40:041][997]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.09-23.35.40:043][997]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.06.09-16.35.40
+[2020.06.09-23.35.40:044][997]LogWorld: Bringing up level for play took: 0.002111
+[2020.06.09-23.35.40:044][997]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.06.09-23.35.40:047][997]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.812
+[2020.06.09-23.35.40:047][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.35.55:707][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.35.55:708][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.35.55:708][499]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.35.55:717][499]LogSlate: Window 'Battelfiledrunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.09-23.35.55:772][499]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.35.55:787][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-23.35.55:788][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.35.55:860][499]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.06.09-23.35.55:902][500]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.06.09-23.37.42:069][714]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.06.09-23.37.42:295][714]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.06.09-23.37.43:453][780]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.09-23.37.43:467][780]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.37.43:467][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.09-23.37.43:468][780]PIE: New page: PIE session: ThirdPersonExampleMap (09-Jun-2020 9:37:43 am)
+[2020.06.09-23.37.43:468][780]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.37.43:480][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012600s)
+[2020.06.09-23.37.43:481][780]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.09-23.37.43:482][780]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2020.06.09-23.37.43:482][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013904s)
+[2020.06.09-23.37.43:517][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.06.09-23.37.43:523][780]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.09-23.37.43:540][780]LogInit: FAudioDevice initialized.
+[2020.06.09-23.37.43:549][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.37.43:549][780]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.09-23.37.43:551][780]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.06.09-16.37.43
+[2020.06.09-23.37.43:552][780]LogWorld: Bringing up level for play took: 0.001787
+[2020.06.09-23.37.43:552][780]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.06.09-23.37.43:556][780]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.696
+[2020.06.09-23.37.43:556][780]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.37.50:457][989]LogSlate: Window 'Battelfiledrunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.09-23.37.50:467][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.37.50:467][989]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.37.50:468][989]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.37.50:494][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-23.37.50:494][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.37.50:545][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.06.09-23.37.50:577][990]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.06.09-23.37.52:797][123]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.09-23.37.52:809][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.37.52:809][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.09-23.37.52:809][123]PIE: New page: PIE session: ThirdPersonExampleMap (09-Jun-2020 9:37:52 am)
+[2020.06.09-23.37.52:809][123]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.37.52:817][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008434s)
+[2020.06.09-23.37.52:818][123]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.09-23.37.52:818][123]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2020.06.09-23.37.52:818][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009628s)
+[2020.06.09-23.37.52:850][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.06.09-23.37.52:855][123]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.09-23.37.52:871][123]LogInit: FAudioDevice initialized.
+[2020.06.09-23.37.52:880][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.37.52:881][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.09-23.37.52:883][123]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.06.09-16.37.52
+[2020.06.09-23.37.52:884][123]LogWorld: Bringing up level for play took: 0.002399
+[2020.06.09-23.37.52:884][123]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.06.09-23.37.52:888][123]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.028
+[2020.06.09-23.37.52:888][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.37.56:793][243]LogSlate: Window 'Battelfiledrunner Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.09-23.37.56:807][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.37.56:807][243]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.37.56:807][243]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.37.56:830][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-23.37.56:831][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.37.56:889][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.06.09-23.37.56:921][244]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.06.09-23.38.27:240][486]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={024BC666-4259-F6F9-6995-94B3FF3C6B1A}
+[2020.06.09-23.39.44:174][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../UE4/Battelfiledrunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.06.09-23.39.44:213][887]LogSavePackage: Moving '../../../../../UE4/Battelfiledrunner/Saved/ThirdPersonCharacter2126FE0941156B53A95A73B72DD7BCBA.tmp' to '../../../../../UE4/Battelfiledrunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.06.09-23.39.45:330][950]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.40.15:682][217]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.06.09-23.40.16:199][217]LogSavePackage: Moving '../../../../../UE4/Battelfiledrunner/Saved/ThirdPersonExampleMap_Auto1F722ED2740D8811F213457BEBBFD12C8.tmp' to '../../../../../UE4/Battelfiledrunner/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.06.09-23.40.16:218][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.595
+[2020.06.09-23.40.16:218][217]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.595
+[2020.06.09-23.42.11:767][691]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.09-23.42.11:791][691]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.42.11:791][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.09-23.42.11:791][691]PIE: New page: PIE session: ThirdPersonExampleMap (09-Jun-2020 9:42:11 am)
+[2020.06.09-23.42.11:791][691]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.42.11:807][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016320s)
+[2020.06.09-23.42.11:809][691]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.06.09-23.42.11:809][691]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2020.06.09-23.42.11:809][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018062s)
+[2020.06.09-23.42.11:874][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.06.09-23.42.11:881][691]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.09-23.42.11:902][691]LogInit: FAudioDevice initialized.
+[2020.06.09-23.42.11:911][691]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.06.09-23.42.11:913][691]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.06.09-16.42.11
+[2020.06.09-23.42.11:913][691]LogWorld: Bringing up level for play took: 0.001595
+[2020.06.09-23.42.11:913][691]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.06.09-23.42.11:916][691]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.056
+[2020.06.09-23.42.11:916][691]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.42.13:964][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.42.13:964][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.42.13:964][761]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.06.09-23.42.13:965][761]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.42.13:999][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.09-23.42.13:999][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.06.09-23.42.14:039][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.09-23.42.14:042][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.06.09-23.42.14:070][763]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.06.09-23.42.15:464][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.06.09-23.42.19:395][806]LogSlate: Window 'Save Content' being destroyed
+[2020.06.09-23.42.19:520][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.06.09-23.42.19:761][806]LogSavePackage: Moving '../../../../../UE4/Battelfiledrunner/Saved/ThirdPersonExampleMap39AB5A82429953397F49B286EE0B0E08.tmp' to '../../../../../UE4/Battelfiledrunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.06.09-23.42.19:797][806]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.307
+[2020.06.09-23.42.20:002][806]LogSlate: Window 'Battelfiledrunner - Unreal Editor' being destroyed
+[2020.06.09-23.42.20:456][807]Cmd: QUIT_EDITOR
+[2020.06.09-23.42.21:655][807]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.09-23.42.21:754][807]LogExit: Preparing to exit.
+[2020.06.09-23.42.22:529][807]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.42.22:532][807]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.42.22:533][807]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.42.22:535][807]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.42.22:732][807]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.06.09-23.42.22:856][807]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.06.09-23.42.22:856][807]LogExit: Editor shut down
+[2020.06.09-23.42.22:856][807]LogExit: Transaction tracking system shut down
+[2020.06.09-23.42.25:230][807]LogExit: Object subsystem successfully closed.
+[2020.06.09-23.42.25:489][807]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.09-23.42.26:923][807]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (674)
+[2020.06.09-23.42.26:923][807]LogModuleManager: Shutting down and abandoning module Voice (672)
+[2020.06.09-23.42.26:928][807]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2020.06.09-23.42.26:928][807]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2020.06.09-23.42.26:928][807]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2020.06.09-23.42.26:928][807]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2020.06.09-23.42.27:014][807]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2020.06.09-23.42.27:014][807]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2020.06.09-23.42.27:014][807]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2020.06.09-23.42.27:015][807]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2020.06.09-23.42.27:035][807]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2020.06.09-23.42.27:035][807]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2020.06.09-23.42.27:079][807]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2020.06.09-23.42.27:133][807]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2020.06.09-23.42.27:133][807]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2020.06.09-23.42.27:133][807]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2020.06.09-23.42.27:133][807]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2020.06.09-23.42.27:142][807]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2020.06.09-23.42.27:142][807]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2020.06.09-23.42.27:142][807]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2020.06.09-23.42.27:151][807]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2020.06.09-23.42.27:157][807]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2020.06.09-23.42.27:157][807]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2020.06.09-23.42.27:157][807]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2020.06.09-23.42.27:191][807]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2020.06.09-23.42.27:233][807]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2020.06.09-23.42.27:346][807]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2020.06.09-23.42.27:346][807]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2020.06.09-23.42.27:380][807]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2020.06.09-23.42.27:388][807]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2020.06.09-23.42.27:388][807]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2020.06.09-23.42.27:388][807]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2020.06.09-23.42.27:388][807]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2020.06.09-23.42.27:388][807]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2020.06.09-23.42.27:401][807]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2020.06.09-23.42.27:448][807]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2020.06.09-23.42.27:572][807]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.06.09-23.42.27:614][807]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2020.06.09-23.42.27:614][807]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2020.06.09-23.42.27:614][807]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2020.06.09-23.42.27:650][807]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2020.06.09-23.42.27:674][807]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2020.06.09-23.42.27:696][807]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2020.06.09-23.42.27:696][807]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2020.06.09-23.42.27:714][807]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2020.06.09-23.42.27:714][807]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2020.06.09-23.42.27:730][807]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2020.06.09-23.42.27:730][807]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2020.06.09-23.42.27:730][807]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2020.06.09-23.42.28:024][807]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2020.06.09-23.42.28:024][807]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2020.06.09-23.42.28:024][807]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2020.06.09-23.42.28:024][807]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2020.06.09-23.42.28:024][807]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2020.06.09-23.42.28:024][807]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2020.06.09-23.42.28:054][807]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2020.06.09-23.42.28:069][807]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2020.06.09-23.42.28:079][807]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2020.06.09-23.42.28:087][807]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2020.06.09-23.42.28:087][807]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2020.06.09-23.42.28:096][807]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2020.06.09-23.42.28:108][807]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2020.06.09-23.42.28:122][807]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2020.06.09-23.42.28:122][807]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2020.06.09-23.42.28:122][807]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2020.06.09-23.42.28:123][807]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2020.06.09-23.42.28:123][807]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2020.06.09-23.42.28:131][807]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2020.06.09-23.42.28:144][807]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2020.06.09-23.42.28:155][807]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2020.06.09-23.42.28:162][807]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2020.06.09-23.42.28:173][807]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2020.06.09-23.42.28:229][807]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2020.06.09-23.42.28:315][807]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2020.06.09-23.42.28:336][807]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2020.06.09-23.42.28:361][807]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2020.06.09-23.42.28:361][807]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2020.06.09-23.42.28:361][807]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2020.06.09-23.42.28:361][807]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2020.06.09-23.42.28:392][807]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2020.06.09-23.42.28:431][807]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2020.06.09-23.42.28:431][807]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2020.06.09-23.42.28:431][807]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2020.06.09-23.42.28:455][807]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2020.06.09-23.42.28:469][807]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2020.06.09-23.42.28:469][807]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2020.06.09-23.42.28:469][807]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2020.06.09-23.42.28:469][807]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2020.06.09-23.42.28:469][807]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.06.09-23.42.28:469][807]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.06.09-23.42.28:495][807]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.06.09-23.42.28:507][807]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.06.09-23.42.28:551][807]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.06.09-23.42.28:551][807]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.06.09-23.42.28:560][807]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.06.09-23.42.28:560][807]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.06.09-23.42.28:560][807]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.06.09-23.42.28:571][807]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.06.09-23.42.28:579][807]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.06.09-23.42.28:579][807]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.06.09-23.42.28:579][807]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.06.09-23.42.28:579][807]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.06.09-23.42.28:579][807]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.06.09-23.42.28:579][807]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.06.09-23.42.28:589][807]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.06.09-23.42.28:589][807]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.06.09-23.42.28:594][807]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.06.09-23.42.28:594][807]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2020.06.09-23.42.28:602][807]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2020.06.09-23.42.28:605][807]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2020.06.09-23.42.28:744][807]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2020.06.09-23.42.28:862][807]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2020.06.09-23.42.28:862][807]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2020.06.09-23.42.28:862][807]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2020.06.09-23.42.28:862][807]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2020.06.09-23.42.28:870][807]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2020.06.09-23.42.28:870][807]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2020.06.09-23.42.28:870][807]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2020.06.09-23.42.28:870][807]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2020.06.09-23.42.28:878][807]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2020.06.09-23.42.28:878][807]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2020.06.09-23.42.28:878][807]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2020.06.09-23.42.28:878][807]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2020.06.09-23.42.28:878][807]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2020.06.09-23.42.28:878][807]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2020.06.09-23.42.28:878][807]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2020.06.09-23.42.28:878][807]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2020.06.09-23.42.28:915][807]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2020.06.09-23.42.28:931][807]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2020.06.09-23.42.28:931][807]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2020.06.09-23.42.28:940][807]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2020.06.09-23.42.28:940][807]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2020.06.09-23.42.28:940][807]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2020.06.09-23.42.28:951][807]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2020.06.09-23.42.28:951][807]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2020.06.09-23.42.28:951][807]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2020.06.09-23.42.28:951][807]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2020.06.09-23.42.28:965][807]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2020.06.09-23.42.28:965][807]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2020.06.09-23.42.28:966][807]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2020.06.09-23.42.29:077][807]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2020.06.09-23.42.29:077][807]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2020.06.09-23.42.29:077][807]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2020.06.09-23.42.29:077][807]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2020.06.09-23.42.29:077][807]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2020.06.09-23.42.29:077][807]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2020.06.09-23.42.29:077][807]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2020.06.09-23.42.29:098][807]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2020.06.09-23.42.29:101][807]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2020.06.09-23.42.29:122][807]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2020.06.09-23.42.29:151][807]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2020.06.09-23.42.29:152][807]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2020.06.09-23.42.29:153][807]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2020.06.09-23.42.29:153][807]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2020.06.09-23.42.29:165][807]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2020.06.09-23.42.29:165][807]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2020.06.09-23.42.29:165][807]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2020.06.09-23.42.29:178][807]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2020.06.09-23.42.29:187][807]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2020.06.09-23.42.29:201][807]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2020.06.09-23.42.29:201][807]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2020.06.09-23.42.29:201][807]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2020.06.09-23.42.29:201][807]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2020.06.09-23.42.29:201][807]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2020.06.09-23.42.29:201][807]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2020.06.09-23.42.29:201][807]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2020.06.09-23.42.29:201][807]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2020.06.09-23.42.29:201][807]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2020.06.09-23.42.29:224][807]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.06.09-23.42.29:224][807]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.06.09-23.42.29:224][807]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.06.09-23.42.29:224][807]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.06.09-23.42.29:224][807]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.06.09-23.42.29:224][807]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.06.09-23.42.29:325][807]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.06.09-23.42.29:510][807]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.06.09-23.42.29:510][807]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.06.09-23.42.29:510][807]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.06.09-23.42.29:544][807]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.06.09-23.42.29:544][807]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.06.09-23.42.29:545][807]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.09-23.42.29:545][807]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.06.09-23.42.29:545][807]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.06.09-23.42.29:545][807]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.06.09-23.42.29:566][807]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.06.09-23.42.29:566][807]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.06.09-23.42.29:566][807]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.06.09-23.42.29:566][807]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.06.09-23.42.29:584][807]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.06.09-23.42.29:615][807]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.06.09-23.42.29:631][807]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.06.09-23.42.29:631][807]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.06.09-23.42.29:631][807]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.06.09-23.42.29:661][807]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.06.09-23.42.29:661][807]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.06.09-23.42.29:673][807]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.06.09-23.42.29:673][807]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.06.09-23.42.29:673][807]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.06.09-23.42.29:683][807]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.06.09-23.42.29:700][807]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.06.09-23.42.29:710][807]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.06.09-23.42.29:710][807]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.06.09-23.42.29:710][807]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.06.09-23.42.29:710][807]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.06.09-23.42.29:727][807]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.06.09-23.42.29:727][807]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.06.09-23.42.29:727][807]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.06.09-23.42.29:727][807]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.06.09-23.42.29:795][807]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.06.09-23.42.29:815][807]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.06.09-23.42.29:815][807]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.06.09-23.42.29:851][807]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.06.09-23.42.29:852][807]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.06.09-23.42.29:865][807]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.06.09-23.42.29:894][807]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.06.09-23.42.29:909][807]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.06.09-23.42.29:946][807]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.06.09-23.42.30:031][807]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.06.09-23.42.30:031][807]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.06.09-23.42.30:081][807]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.06.09-23.42.30:081][807]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.06.09-23.42.30:081][807]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.06.09-23.42.30:082][807]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.06.09-23.42.30:082][807]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.06.09-23.42.30:082][807]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.06.09-23.42.30:082][807]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.06.09-23.42.30:082][807]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.06.09-23.42.30:082][807]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.06.09-23.42.30:082][807]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.06.09-23.42.30:082][807]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.06.09-23.42.30:082][807]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.06.09-23.42.30:082][807]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.06.09-23.42.30:095][807]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.06.09-23.42.30:095][807]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.06.09-23.42.30:107][807]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.06.09-23.42.30:137][807]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.06.09-23.42.30:138][807]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.06.09-23.42.30:154][807]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.06.09-23.42.30:154][807]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.06.09-23.42.30:243][807]LogDerivedDataCache: Shutdown
+[2020.06.09-23.42.30:243][807]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.06.09-23.42.30:315][807]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.06.09-23.42.30:331][807]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.06.09-23.42.30:342][807]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.06.09-23.42.30:356][807]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.06.09-23.42.30:370][807]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.06.09-23.42.30:378][807]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.06.09-23.42.30:401][807]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.06.09-23.42.30:401][807]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.06.09-23.42.30:401][807]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.06.09-23.42.30:401][807]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.06.09-23.42.30:420][807]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.06.09-23.42.30:420][807]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.06.09-23.42.30:420][807]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.06.09-23.42.30:420][807]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.06.09-23.42.30:433][807]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.06.09-23.42.30:433][807]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.06.09-23.42.30:433][807]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.06.09-23.42.30:449][807]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.06.09-23.42.30:449][807]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.06.09-23.42.30:457][807]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.06.09-23.42.30:466][807]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.06.09-23.42.30:476][807]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.06.09-23.42.30:477][807]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.06.09-23.42.30:477][807]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.06.09-23.42.30:478][807]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.06.09-23.42.30:478][807]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.06.09-23.42.30:483][807]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.06.09-23.42.30:497][807]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.06.09-23.42.30:504][807]LogHMD: Freeing OpenVRDLLHandle.
+[2020.06.09-23.42.30:504][807]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.06.09-23.42.30:517][807]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.06.09-23.42.30:518][807]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.06.09-23.42.30:518][807]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.06.09-23.42.30:518][807]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.06.09-23.42.30:548][807]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.06.09-23.42.30:562][807]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.06.09-23.42.30:618][807]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.06.09-23.42.30:618][807]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.06.09-23.42.30:618][807]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B56AD60C2-4A1C-6D7E-BAD2-9585BDACDC60%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=45cdb75c46050cc25b5994befe0f2122%7C0de5764f4c364ff38c5c8f4c49fce916%7C61f7e86a-8cc6-4fd6-bcfa-069bb5c4a7f6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.06.09-23.42.30:634][807]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.06.09-23.42.30:648][807]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.06.09-23.42.30:665][807]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.06.09-23.42.30:666][807]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.06.09-23.42.30:666][807]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.06.09-23.42.30:666][807]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.06.09-23.42.30:666][807]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.06.09-23.42.30:681][807]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.06.09-23.42.30:681][807]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.06.09-23.42.30:694][807]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.06.09-23.42.30:694][807]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.06.09-23.42.30:714][807]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.06.09-23.42.30:714][807]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.06.09-23.42.30:714][807]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.06.09-23.42.30:714][807]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.06.09-23.42.30:739][807]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.06.09-23.42.30:791][807]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.06.09-23.42.30:791][807]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.06.09-23.42.30:803][807]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.06.09-23.42.30:803][807]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.06.09-23.42.30:803][807]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.06.09-23.42.30:803][807]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.06.09-23.42.30:810][807]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.06.09-23.42.30:810][807]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.06.09-23.42.30:811][807]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.09-23.42.30:811][807]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.09-23.42.30:826][807]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.09-23.42.30:839][807]LogD3D11RHI: Shutdown
+[2020.06.09-23.42.30:848][807]LogD3D11RHI: CleanupD3DDevice
+[2020.06.09-23.42.30:894][807]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.09-23.42.30:899][807]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.09-23.42.30:899][807]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.06.09-23.42.30:926][807]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2020.06.09-23.42.31:151][807]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.06.09-23.42.31:192][807]LogExit: Exiting.
+[2020.06.09-23.42.31:244][807]Log file closed, 06/09/20 16:42:31
